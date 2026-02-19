@@ -1,2 +1,2 @@
-# Robotics-Capstone
-The repo to my robotics engineering capstone project
+# EDD-Capstone
+Describe your capstone project here.
